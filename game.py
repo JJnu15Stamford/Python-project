@@ -1,6 +1,6 @@
 print("choose your character")
 
-theCharacter = ["john vega", "jacky brown", "wendy smith"]
+theCharacter = ["john vega", "jacky brown", "wendy smith."]
 print(theCharacter[0])
 print(theCharacter[1])
 print(theCharacter[2])
